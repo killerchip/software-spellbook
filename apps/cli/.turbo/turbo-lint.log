@@ -1,4 +1,0 @@
-
-> cli@0.0.0 lint /Users/killerchip/Documents/dev/ioannou.dev/software-spellbook/repos/software-spellbook/apps/cli
-> tsc --noEmit && eslint . --ext .ts,.tsx
-
