@@ -5,7 +5,13 @@
 ## Table of Contents
 
 - [Turbo Repo](./docs/turbo-repo/README.md)
+
   - [Setup a base repo for TypeScript projects](./docs/turbo-repo/turbo-repo-base-ts.md)
+
+- [Functional Programming](./docs/functional-programming/README.md)
+  - [Point-free style](./docs/functional-programming/point-free.md)
+  - [Injection example in FP](./docs/functional-programming/injection-fp.md)
+  - [Pure Functions](./docs/functional-programming/pure-functions.md)
 
 ### License - MIT
 
